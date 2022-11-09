@@ -8,6 +8,7 @@
 <tr><td><img src="Arrow-down.png" height="25" /></td><td><a href="Arrow-down.png" target="_blank">Arrow-down.png</a></td></tr>
 <tr><td><img src="Arrow-right.png" height="25" /></td><td><a href="Arrow-right.png" target="_blank">Arrow-right.png</a></td></tr>
 <tr><td><img src="Arrow-left.png" height="25" /></td><td><a href=Arrow-left.png" target="_blankArrow-left.png</a></td></tr>
+
 <tr><td><img src="android.png" height="25" /></td><td><a href="android.png" target="_blank">android.png</a></td></tr>
 <tr><td><img src="android.png" height="25" /></td><td><a href="android.png" target="_blank">android.png</a></td></tr>
 <tr><td><img src="apple-ios-colored.png" height="25" /></td><td><a href="apple-ios-colored.png" target="_blank">apple-ios-colored.png</a></td></tr>
