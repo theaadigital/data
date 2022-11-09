@@ -1,7 +1,7 @@
 #readme
 
 <table>
-<tr><td><img src="arrow_drop_down.png" height="25" /></td><td><a href="arrow_drop_down.png" target="_blank">arrow_drop_down.png</a></td></tr>
+<tr><td><img src="android-colored.png" height="25" /></td><td><a href="android-colored.png" target="_blank">android-colored.png</a></td></tr>
 <tr><td><img src="arrow_drop_up.png" height="25" /></td><td><a href="arrow_drop_up.png" target="_blank">arrow_drop_up.png</a></td></tr>
 <tr><td><img src="check.png" height="25" /></td><td><a href="check.png" target="_blank">check.png</a></td></tr>
 <tr><td><img src="check_box.png" height="25" /></td><td><a href="check_box.png" target="_blank">check_box.png</a></td></tr>
