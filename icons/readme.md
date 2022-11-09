@@ -1,16 +1,18 @@
 #readme
 
 <table>
+<tr><td><img src="Arrow-up-green" height="25" /></td><td><a href="Arrow-up-green" target="_blank">Arrow-up-green</a></td></tr>
+<tr><td><img src="Arrow-down-red.png" height="25" /></td><td><a href="Arrow-down-red.png" target="_blank">Arrow-down-red.png</a></td></tr>
+<tr><td><img src="Line.png" height="25" /></td><td><a href="Line.png" target="_blank">Line.png</a></td></tr>
+<tr><td><img src="Arrow-up.png" height="25" /></td><td><a href="Arrow-up.png" target="_blank">Arrow-up.png</a></td></tr>
+<tr><td><img src="Arrow-down.png" height="25" /></td><td><a href="Arrow-down.png" target="_blank">Arrow-down.png</a></td></tr>
+<tr><td><img src="Arrow-right.png" height="25" /></td><td><a href="Arrow-right.png" target="_blank">Arrow-right.png</a></td></tr>
+<tr><td><img src="Arrow-left.png" height="25" /></td><td><a href=Arrow-left.png" target="_blankArrow-left.png</a></td></tr>
+
 <tr><td><img src="android-colored.png" height="25" /></td><td><a href="android-colored.png" target="_blank">android-colored.png</a></td></tr>
-<tr><td><img src="arrow_drop_up.png" height="25" /></td><td><a href="arrow_drop_up.png" target="_blank">arrow_drop_up.png</a></td></tr>
-<tr><td><img src="check.png" height="25" /></td><td><a href="check.png" target="_blank">check.png</a></td></tr>
-<tr><td><img src="check_box.png" height="25" /></td><td><a href="check_box.png" target="_blank">check_box.png</a></td></tr>
-<tr><td><img src="check_box_outline_blank.png" height="25" /></td><td><a href="check_box_outline_blank.png" target="_blank">check_box_outline_blank.png</a></td></tr>
-<tr><td><img src="check_circle.png" height="25" /></td><td><a href="check_circle.png" target="_blank">check_circle.png</a></td></tr>
-<tr><td><img src="clear.png" height="25" /></td><td><a href="clear.png" target="_blank">clear.png</a></td></tr>
-<tr><td><img src="clear_circle.png" height="25" /></td><td><a href="clear_circle.png" target="_blank">clear_circle.png</a></td></tr>
-<tr><td><img src="error.png" height="25" /></td><td><a href="error.png" target="_blank">error.png</a></td></tr>
-<tr><td><img src="schedule.png" height="25" /></td><td><a href="schedule.png" target="_blank">schedule.png</a></td></tr>
+<tr><td><img src="android.png" height="25" /></td><td><a href="android.png" target="_blank">android.png</a></td></tr>
+<tr><td><img src="apple-ios-colored.png" height="25" /></td><td><a href="apple-ios-colored.png" target="_blank">apple-ios-colored.png</a></td></tr>
+<tr><td><img src="ios-apple.png" height="25" /></td><td><a href="ios-apple.png" target="_blank">ios-apple.png</a></td></tr>
 <tr><td><img src="sentiment_dissatisfied.png" height="25" /></td><td><a href="sentiment_dissatisfied.png" target="_blank">sentiment_dissatisfied.png</a></td></tr>
 <tr><td><img src="sentiment_satisfied.png" height="25" /></td><td><a href="sentiment_satisfied.png" target="_blank">sentiment_satisfied.png</a></td></tr>
 <tr><td><img src="sentiment_satisfied_alt.png" height="25" /></td><td><a href="sentiment_satisfied_alt.png" target="_blank">sentiment_satisfied_alt.png</a></td></tr>
