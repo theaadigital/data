@@ -1,4 +1,4 @@
-#readme
+# Icons for Google Data Studio
 
 <table>
 <tr><td><img src="Arrow-up-green.png" height="25" /></td><td><a href="Arrow-up-green.png" target="_blank">Arrow-up-green.png</a></td></tr>
